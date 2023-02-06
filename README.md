@@ -46,7 +46,7 @@ I’m a Back-end developer, but i have a little experience with Front-end.
 - [Twitter](https://twitter.com/Fujao__)  
   
 
-- Discord - [! ! ! Fujão#0001]  
+- Discord - [ ! ! ! Fujão#0001 ]  
 
 <br />
 
