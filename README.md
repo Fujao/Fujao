@@ -4,7 +4,7 @@
 I’m a Back-end developer, but i have a little experience with Front-end.  
   
 
-- 🔭 I'm working on my projects like tools for solana.  
+- 🔭 I'm working on my projects like, tools for solana.  
   
 
 - 🤝 I am interested in delivering tools for Solana/Aptos projects.  
@@ -16,7 +16,7 @@ I’m a Back-end developer, but i have a little experience with Front-end.
 <br/>  
 
 
-## My Skill Set  
+## My Skills  
 
 
 
