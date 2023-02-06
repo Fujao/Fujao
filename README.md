@@ -17,11 +17,10 @@ I’m a Back-end developer, but i have a little experience with Front-end.
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
 
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="100%">
 
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -35,8 +34,6 @@ I’m a Back-end developer, but i have a little experience with Front-end.
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
 
 
 
