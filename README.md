@@ -50,5 +50,4 @@ I’m a Back-end developer, but i have a little experience with Front-end.
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
