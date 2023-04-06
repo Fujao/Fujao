@@ -1,10 +1,10 @@
 ### Whats up, I'm Mateus but people call me Fujão.  
   
 
-I’m a Back-end developer, but i have a little experience with Front-end.  
+I’m a FullStack developer, currently working on WEB3. 
   
 
-- 🔭 I'm working on my projects like, tools for solana.  
+- 🔭 Open to work on projects in solana
   
 
 - 🤝 I am interested in delivering tools for Solana/Aptos projects.  
